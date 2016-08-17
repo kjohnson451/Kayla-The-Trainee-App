@@ -1,0 +1,14 @@
+{
+  "appname": "Kayla The Trainee App",
+  "scope": "FullAccess",
+  "clientid": "F868259C-C2C9-466E-BC89-62BE3FA74089",
+  "buyerid": "kaylathetrainee",
+  "environment": "prod",
+  "anonymous": false,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
